@@ -95,7 +95,7 @@ void Start()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	std::cout << "\n\n\t\t\t\t\tВайбШоп\n\t\t\t\t\t\t\t\t\t\t\t\tСооснователь-Ганжубарин\n\n";
+	std::cout << "\n\n\t\t\t\t\tуебанка\n\t\t\t\t\t\t\t\t\t\t\t\tСоснователь-Манукяныч\n\n";
 	if (Login() == true) {
 		//std::cin.ignore(std::numeric_limits<std::streamsize>::max());
 
